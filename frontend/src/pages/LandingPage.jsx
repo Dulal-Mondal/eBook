@@ -477,7 +477,7 @@ export default function LandingPage() {
 
         <footer className="footer">
           <div className="footer-logo">Scholarhaat</div>
-          <div className="footer-text">© 2026 Scholarhaat | scholarhaat.com | সকল অধিকার সংরক্ষিত</div>
+          <div className="footer-text">© 2026 Scholarhaat | scholarhaat.com | All Rights Reserved</div>
         </footer>
 
         {success && (
